@@ -1,6 +1,10 @@
-#  니가있는 그곳🏰은 어디야? (이미지 분석 프로젝트)
+![](https://img.shields.io/github/license/jw0831/Landmark_finder_using_CNN)
 
-https://img.shields.io/github/license/jw0831/Landmark_finder_using_CNN
+![stars](https://img.shields.io/github/stars/jw0831/Landmark_finder_using_CNN)
+
+![fork](https://img.shields.io/github/forks/jw0831/Landmark_finder_using_CNN)
+
+#  니가있는 그곳🏰은 어디야? (이미지 분석 프로젝트)
 
 ### 팀명 : 여기요
 
