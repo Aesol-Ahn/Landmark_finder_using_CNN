@@ -10,7 +10,7 @@
 
 ### 팀원 : **김진원**, 노용철, 홍세준, 민채정, 안애솔
 
-![여기요](README.assets/여기요.png)
+<img src="README.assets/main.png" alt="여기요" style="zoom:50%;" />
 
 ## 프로젝트 주제 및 내용:
 
